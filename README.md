@@ -44,6 +44,13 @@ Este projeto possui os seguintes controllers:
 
 Você pode encontrar os controllers na pasta `app/Http/Controllers`.
 
+## Endpoints 🌐
+
+- GET /alunos - Retorna todos as alunos
+- POST /alunos - Cria um novo aluno
+- PUT /alunos/{id} - Atualiza um aluno específico
+- DELETE /alunos/{id} - Exclui um aluno específico
+
 ## Observações 📝
 
 Este projeto foi desenvolvido com fins de estudo, sinta-se à vontade para explorar e personalizar a API de acordo com suas necessidades.
