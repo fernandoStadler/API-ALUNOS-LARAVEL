@@ -33,5 +33,5 @@ Você pode encontrar os controllers na pasta `app/Http/Controllers`.
 
 ## Observações 📝
 
-Este projeto foi desenvolvido com fins de estudo e serve como base para a criação de um projeto fullstack. Sinta-se à vontade para explorar e personalizar a API de acordo com suas necessidades.
+Este projeto foi desenvolvido com fins de estudo, sinta-se à vontade para explorar e personalizar a API de acordo com suas necessidades.
 
